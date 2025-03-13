@@ -10,8 +10,6 @@
 ![](https://leetcard.jacoblin.cool/aryan_1904?ext=heatmap)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aryanwrites&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryanwrites&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanwrites&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aryanwrites&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
