@@ -17,8 +17,7 @@
 
 # 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=aryanwrites&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-# 📚 Leetcode Status
-![](https://leetcard.jacoblin.cool/aryan_1904?ext=heatmap)
+
 
 # 📊 GitHub Stats:
 
